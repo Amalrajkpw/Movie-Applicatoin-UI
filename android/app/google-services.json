@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "503933876228",
+    "project_id": "moviemod-b45c1",
+    "storage_bucket": "moviemod-b45c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503933876228:android:eb2c43a6fb7eeaa3355d51",
+        "android_client_info": {
+          "package_name": "com.example.movie_mod_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503933876228-o3tkap6vnuq1fnbop4ou303e40luincj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movie_mod_application",
+            "certificate_hash": "d1c7f3b402b21f906364c74002796f90fa4c4f13"
+          }
+        },
+        {
+          "client_id": "503933876228-trqrh1trbrqscpq72o3vui180mg09qon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD_JQkuKuxJqC2vPXx6O9nxCKp2LqW8LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503933876228-trqrh1trbrqscpq72o3vui180mg09qon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
